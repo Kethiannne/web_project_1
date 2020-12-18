@@ -225,7 +225,7 @@
   background-size: contain;
   z-index: -1;
   /*Thank you for explaining about giving the whole section a positive z-index in order to create context.
-    I had tried before to give the triangle a negative value many times, but since i hadnt given it context
+    I had tried before to give the triangle a negative value many times, but since i hadn't given it context
     properly, it kept dissapearing behind the background!*/
 }
 
