@@ -1,0 +1,6 @@
+.khan__book-container {
+  height: 620px;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+}

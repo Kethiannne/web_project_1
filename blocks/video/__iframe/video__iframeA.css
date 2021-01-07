@@ -1,0 +1,9 @@
+.video__iframeA {
+  width: 515px;
+  height: 316px;
+  object-fit: contain;
+  margin-right: 20px;
+  margin-left: auto;
+  position: relative;
+  top: 50px;
+}
